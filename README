@@ -1,0 +1,1 @@
+bro, coba baca dulu cara nginstall laravel 4.2. intinya ente install composer aja dulu bro, kalau composer udah di install bisa langsung gunain composer update di folder yg ada file composer.json. cara install composer ada di getcomposer.org
